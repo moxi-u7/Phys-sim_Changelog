@@ -1,2 +1,3 @@
-# Phys-sim_Releases
-Releases of my game/physics simulator in 2D 
+# Phys-sim_Changelog
+
+you can find the game at:
