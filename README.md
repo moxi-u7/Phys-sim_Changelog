@@ -1,5 +1,5 @@
 # Phys-sim_Changelog
 
-**you can find the game at:** (not released or dev version for itch.io made yet) version 0.0.2-dev is the likely the version i would release on itch or higher
+**you can find the changelog at:** [this link](https://github.com/moxi-u7/Phys-sim_Changelog/blob/main/CHANGELOG.md)
 
-> **it's in very very early development so don't expect anything shocking until First Release (when the "-dev" tag is deleted it would mean it's production version)**
+> **it's in very very early development so don't expect anything shocking until First Release (when the "-dev" tag is deleted it would mean it's production version) first release are gonna be on my itch.io**
